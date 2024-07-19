@@ -23,5 +23,5 @@ githubUsers.sort(_.followers)
            --->
 
 <a href="https://user-badge.committers.top/pakistan/samade747">
-    <img src="https://user-badge.committers.top/pakistan/samade747.svg" alt="committers.top badge" width="300">
+    <img src="https://user-badge.committers.top/pakistan/samade747.svg" alt="committers.top badge" width="800">
 </a>

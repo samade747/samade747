@@ -8,8 +8,7 @@
 
 📫 How to reach me:
 -
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/abdul-samad-7a294766/))
-- Twitter: [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/abdul-samad-7a294766/)
 
 <!---
 samade747/samade747 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

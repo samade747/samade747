@@ -18,4 +18,4 @@ githubUsers.sort(_.followers)
 
 [![committers.top badge](https://user-badge.committers.top/pakistan/samade747.svg)](https://user-badge.committers.top/pakistan/samade747)
 
-[![committers.top badge](https://org-badge.committers.top/pakistan/samade747.svg)](https://org-badge.committers.top/pakistan/samade747)
+

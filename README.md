@@ -14,6 +14,6 @@ githubUsers.sort(_.followers)
            .sort(_.contributions)
            .take(256)
 
-[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/samade747)
+[![committers.top badge](https://user-badge.committers.top/pakistan/samade747.svg)](https://user-badge.committers.top/pakistan/samade747)
 
-[![committers.top badge](https://org-badge.committers.top/pakistan/ORGNAME.svg)](https://org-badge.committers.top/pakistan/ORGNAME)
+[![committers.top badge](https://org-badge.committers.top/pakistan/samade747.svg)](https://org-badge.committers.top/pakistan/samade747)

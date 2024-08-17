@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning TypeScript to enhance my development skills and improve my code quality. I'm also working on an Attendance Management System using the MERN stack.
 
-💞️ I’m looking to collaborate on projects that involve JavaScript, React, Node.js, Express, MongoDB, and TypeScript. I am also open to contributing to open-source projects and collaborating with like-minded developers.
+💞️ I’m looking to collaborate on projects that involve JavaScript, React, Node.js, Express, MongoDB,  and TypeScript. I am also open to contributing to open-source projects and collaborating with like-minded developers.
 
 📫 How to reach me:
 -

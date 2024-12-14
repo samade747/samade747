@@ -3,12 +3,14 @@
 Welcome to my digital hub! I’m a Full-Stack Web Developer passionate about building modern, scalable, and efficient web applications. My expertise lies in the MERN stack (MongoDB, Express, React, Node.js), and I’m currently diving deeper into TypeScript to refine my skills and create clean, maintainable code.
 
 💼 Skills
+
 Frontend Development
 React.js
 Redux
 Next.js
 Tailwind CSS / Bootstrap
 HTML5 / CSS3
+
 Backend Development
 Node.js
 Express.js
@@ -18,6 +20,7 @@ Database Management
 MongoDB (NoSQL)
 Mongoose
 Firebase (Real-Time Database & Firestore)
+
 DevOps & Tools
 Git / GitHub
 Postman
@@ -26,6 +29,7 @@ CI/CD Pipelines
 Programming Languages
 JavaScript (ES6+)
 TypeScript
+
 💻 Projects
 1️⃣ Attendance Management System
 Tech Stack: MERN (MongoDB, Express, React, Node.js), TypeScript
@@ -35,7 +39,7 @@ Role-based access control
 Real-time notifications
 Admin dashboard with analytics
 Fully responsive UI
-GitHub Repository (add your project link)
+GitHub Repository 
 2️⃣ GitHub Profile Viewer
 Tech Stack: React, Tailwind CSS, GitHub API
 

@@ -62,7 +62,7 @@ Includes smooth animations and responsive design.
 Live Demo | GitHub Repository (add links here)
 📫 Connect With Me
 LinkedIn: Abdul Samad
-Email: abdulsamad@example.com
+Email: samad.e747@gmail.com
 🎖 Achievements
 Here’s a snapshot of my commitment to the developer community:
 githubUsers.sort(_.followers)

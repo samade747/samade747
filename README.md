@@ -35,12 +35,7 @@
 
 
 
-Here’s a snapshot of my commitment to the developer community:
-githubUsers.sort(_.followers)
-           .filter(_.location == 'Pakistan') 
-           .take(1000)
-           .sort(_.contributions)
-           .take 256)
+
            
           
 <a href="https://user-badge.committers.top/pakistan/samade747"> <img src="https://user-badge.committers.top/pakistan/samade747.svg" alt="Top Committer Badge" width="800"> </a>

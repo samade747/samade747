@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm SAMAD</h1>
 <h3 align="center">A passionate FULL STACK developer from PAKISTAN</h3>
 
@@ -5,19 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samade747" alt="samade747" /></a> </p>
 
-- 🌱 I’m currently learning **AWS Services: Exploring EC2, S3, and RDS for deploying and scaling applications**
-
-- 👯 I’m looking to collaborate on **’m eager to join projects focused on TypeScript, React, or Node.js, especially those involving scalable and user-centric designs.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/samade747](https://github.com/samade747)
-
-- 💬 Ask me about **react, nextjs,**
-
-- 📫 How to reach me **samad.e747@gmail.com**
-
-- 📄 Know about my experiences [https://5th-class-assignment-7th-october-my-portfolio-website-v9j2.vercel.app/](https://5th-class-assignment-7th-october-my-portfolio-website-v9j2.vercel.app/)
-
-- ⚡ Fun fact **I may think I’m funny, but my code always works seriously!**
+🌱 I’m currently learning AWS Services: Exploring EC2, S3, and RDS for deploying and scaling applications
+👯 I’m looking to collaborate on ’m eager to join projects focused on TypeScript, React, or Node.js, especially those involving scalable and user-centric designs.
+👨‍💻 All of my projects are available at https://github.com/samade747
+💬 Ask me about react, nextjs,
+📫 How to reach me samad.e747@gmail.com (mailto:samad.e747@gmail.com)
+📄 Know about my experiences https://5th-class-assignment-7th-october-my-portfolio-website-v9j2.vercel.app/
+⚡ Fun fact I may think I’m funny, but my code always works seriously!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samade747&show_icons=true&locale=en&layout=compact" alt="samade747" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samade747&show_icons=true&locale=en" alt="samade747" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=samade747&show_icons=true&locale=en" alt="samade747" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samade747&" alt="samade747" /></p>
 
@@ -39,5 +35,3 @@
            
           
 <a href="https://user-badge.committers.top/pakistan/samade747"> <img src="https://user-badge.committers.top/pakistan/samade747.svg" alt="Top Committer Badge" width="800"> </a>
-
-

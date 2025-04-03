@@ -10,9 +10,9 @@
 
 ****AI(Piaic)(GIAIC) (Learning)****
 
-**MERN STACK (SMIT) certified******  
+**MERN STACK (SMIT) certified**
 
-****WEB & app (BANOQABIL) certified******  
+****WEB & app (BANOQABIL) certified****
 
 ---
 

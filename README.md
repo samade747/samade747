@@ -25,30 +25,23 @@ I am a **Full-Stack Developer** with expertise in **modern web technologies** an
 ✔️ **Optimizing web performance & scalability**  
 
 ---
+## 🛠️ My Skills
 
-## 🛠️ **Tech Stack & Skills**  
+### **Frontend Development**
+| HTML | CSS | JavaScript | TypeScript | React.js | Next.js | Bootstrap | Tailwind CSS | Material UI | Shadcn/UI | DaisyUI | ANT DESIGN |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) | ![Shadcn/UI](https://img.shields.io/badge/Shadcn%20UI-000000?style=for-the-badge&logo=react&logoColor=white) | ![DaisyUI](https://img.shields.io/badge/DaisyUI-37C6AB?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![ANT DESIGN](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white) |
 
-### **Frontend Development**  
-| React | Next.js | TypeScript | JavaScript | Tailwind CSS |
-|---|---|---|---|---|
-| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+### **Backend Development**
+| Node.js | Express.js | MongoDB | Firebase | Socket.io | Sanity |
+| --- | --- | --- | --- | --- | --- |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white) | ![Sanity](https://img.shields.io/badge/Sanity-FF2D20?style=for-the-badge&logo=sanity&logoColor=white) |
 
-### **Backend & APIs**  
-| Node.js | API Development | Sanity CMS |
-|---|---|---|
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![API](https://img.shields.io/badge/API_Development-FF5733?style=for-the-badge&logo=api&logoColor=white) | ![Sanity](https://img.shields.io/badge/Sanity-FF2D20?style=for-the-badge&logo=sanity&logoColor=white) |
+### **DevOps & Tools**
+| Git | GitHub | Vercel | Netlify | Redux | Zustand | Google Cloud |
+| --- | --- | --- | --- | --- | --- | --- |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) | ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) | ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge) | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
 
-### **Cloud & DevOps**  
-| Vercel | GitHub |
-|---|---|
-| ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-
----
-
-## 👨‍💻 **Programming Languages**
-| TypeScript | JavaScript | Python | C++ |
-|---|---|---|---|
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 
 ---
 

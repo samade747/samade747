@@ -3,7 +3,7 @@
   <img src="https://github.com/samade747/samade747/blob/main/1725034421234%20(1).jpeg?raw=true" alt="Full-Stack Developer - SAMAD" width="100%">
 </p>
 
-<h1 align="center">👋 Hi, I'm Abdul Samad! 🚀</h1>
+<h1 align="center">👋 Hi, I'm  Samad! 🚀</h1>
 
 <p align="center">
 💻 **Full-Stack Developer | MERN | Next.js | TypeScript | Python | AI | Cloud Computing**  

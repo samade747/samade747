@@ -94,7 +94,10 @@ A **blogging platform** built with **Next.js and Sanity CMS**, featuring dynamic
 
 📩 **Email**: [samad.e747@gmail.com](mailto:samad.e747@gmail.com)  
 
-**Whatsapp** [Whatsapp](https://api.whatsapp.com/send/?phone=03328222026&text&type=phone_number&app_absent=0)
+
+**Whatsapp** [Whatsapp +923328222026](https://api.whatsapp.com/send/?phone=03328222026&text&type=phone_number&app_absent=0)  
+
+
 ---
 
 ⭐ **Feel free to explore my repositories and contribute!** 🚀  

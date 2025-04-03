@@ -17,7 +17,7 @@
 **Certifications:**  
 ✅ **MERN STACK (SMIT) certified**  
 ✅ **Next.js & Tailwind CSS (GIAIC) certified**  
-✅ **AI & Machine Learning (PIAIC, GIAIC) - Learning**  
+✅ **AI & Agentic ai (PIAIC, GIAIC) - Learning**  
 ✅ **Web & App Development (BANOQABIL) certified**  
 
 ---

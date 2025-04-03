@@ -126,3 +126,20 @@ I love **solving complex problems**, building innovative solutions, and working 
 ⭐ **Explore my repositories & feel free to contribute!** 🚀  
 
 #Networking #RemoteWork #TechCommunity #Collaboration  
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samade747&show_icons=true&locale=en&layout=compact" alt="samade747" /></p>  
+
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=samade747&show_icons=true&locale=en" alt="samade747" /></p>  
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samade747&" alt="samade747" /></p>  
+
+
+
+
+
+           
+          
+<a href="https://user-badge.committers.top/pakistan/samade747"> <img src="https://user-badge.committers.top/pakistan/samade747.svg" alt="Top Committer Badge" width="800"> </a>  
+

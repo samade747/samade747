@@ -1,3 +1,8 @@
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://github.com/samade747/samade747/blob/main/1725034421234%20(1).jpeg?raw=true" alt="SAMAD - Full-Stack Developer" width="100%">
+</p>
+
 <h1 align="center">👋 Hi, I'm SAMAD !</h1>
 
 <p align="center">

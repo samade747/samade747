@@ -55,17 +55,34 @@ I am a **Full-Stack Developer** with expertise in **modern web technologies** an
 ### 🔹 **General E-commerce Platform**  
 A complete **Next.js e-commerce platform** with a dynamic product catalog, shopping cart, wishlist, and CMS integration.  
 
+https://github.com/samade747/Hackathon-Giaic-Marketplace-Samade747  
 
-### 🔹 **E-Shop - Online Store**  
-A **fully responsive e-commerce store** built using **React, TypeScript, and Sanity CMS**.  
+https://hackathon-project-g-iaic-furniture-web-samads-projects-e4090820.vercel.app/  
+
+
+
+
+### 🔹 **Dash board app  - e**  
+A **fully responsive Dash board app** built using **React, TypeScript, and Sanity CMS**.  
+
+https://github.com/samade747/Hackathon-Project-Dashboard-for-AnyWebsite-Mongodb/tree/main/dashboardmongodb
+
+https://hackathon-project-dashboard-for-any-website-mongodb.vercel.app/admin/login
  
 
-### 🔹 **TasteHeaven - Resturant Website**  
-A **resturant website** with dynamic menu items, built with **Next.js and Tailwind CSS**.  
+### 🔹 **smit hackathon project -attendance Dashboard APP **  FRONTEND & BACKEND 
+A ** website** with dynamic menu items, built with **React.js and Tailwind CSS**.  
 
 
-### 🔹 **Blog Platform**  
-A **blogging platform** built with **Next.js and Sanity CMS**, featuring dynamic post creation and SEO optimization.  
+****PYTHON PROJECTS****
+
+https://github.com/samade747/python-piaic-learning  
+
+
+https://github.com/samade747/ramadan-coding-nights/
+
+
+
 
 
 

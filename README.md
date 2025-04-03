@@ -9,7 +9,10 @@
 💻 **Full-Stack Developer | MERN | Next.js | TypeScript | Python | AI | Cloud Computing**  
 🎯 **Expert in building web apps, AI-based applications, and cloud-native platforms**  
 📍 **Based in Karachi, Pakistan - Available for Remote Work**  
-</p>
+</p>  
+
+![Profile Views](https://komarev.com/ghpvc/?username=samade747&style=flat-square)
+
 
 **Certifications:**  
 ✅ **MERN STACK (SMIT) certified**  

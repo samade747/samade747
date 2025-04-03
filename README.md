@@ -6,13 +6,7 @@
 📍 Based in Karachi, Pakistan, AVAIALBLE FOR REMOTE WORK 
 </p>
 
-****Nextjs, Tailwindcss. (GIAIC) certified**** 
-
-****AI(Piaic)(GIAIC) (Learning)****
-
-**MERN STACK (SMIT) certified**
-
-****WEB & app (BANOQABIL) certified****
+ **MERN STACK (SMIT) certified**, ****Nextjs, Tailwindcss. (GIAIC) certified**** , ****AI(Piaic)(GIAIC) (Learning)****,, ****WEB & app (BANOQABIL) certified****
 
 ---
 

@@ -88,10 +88,13 @@ A **blogging platform** built with **Next.js and Sanity CMS**, featuring dynamic
 
 ## 📬 **Connect with Me**  
 
-🌐 **Portfolio**: https://5th-class-assignment-7th-october-my-portfolio-website-v9j2.vercel.app/
-💼 **LinkedIn**: https://www.linkedin.com/in/abdul-samad-7a294766/ 
+🌐 **Portfolio**: https://5th-class-assignment-7th-october-my-portfolio-website-v9j2.vercel.app/  
+
+💼 **LinkedIn**: https://www.linkedin.com/in/abdul-samad-7a294766/  
+
 📩 **Email**: [samad.e747@gmail.com](mailto:samad.e747@gmail.com)  
 
+**Whatsapp** [Whatsapp](https://api.whatsapp.com/send/?phone=03328222026&text&type=phone_number&app_absent=0)
 ---
 
 ⭐ **Feel free to explore my repositories and contribute!** 🚀  

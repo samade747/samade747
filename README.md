@@ -146,3 +146,5 @@ I love **solving complex problems**, building innovative solutions, and working 
           
 <a href="https://user-badge.committers.top/pakistan/samade747"> <img src="https://user-badge.committers.top/pakistan/samade747.svg" alt="Top Committer Badge" width="800"> </a>  
 
+![Profile Views](https://komarev.com/ghpvc/?username=samade747&label=Profile%20Views&color=blue&style=plastic)
+

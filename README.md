@@ -1,90 +1,104 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/samade747/samade747/blob/main/1725034421234%20(1).jpeg?raw=true" alt="SAMAD - Full-Stack Developer" width="100%">
+  <img src="https://github.com/samade747/samade747/blob/main/1725034421234%20(1).jpeg?raw=true" alt="Full-Stack Developer - SAMAD" width="100%">
 </p>
 
-<h1 align="center">👋 Hi, I'm SAMAD !</h1>
+<h1 align="center">👋 Hi, I'm Abdul Samad! 🚀</h1>
 
 <p align="center">
-🚀 Full-Stack Developer | Next.js | TypeScript | Python | AI  
-💡 Passionate about building scalable web applications, cloud-native solutions & AI-powered platforms  
-📍 Based in Karachi, Pakistan, AVAIALBLE FOR REMOTE WORK 
+💻 **Full-Stack Developer | MERN | Next.js | TypeScript | Python | AI | Cloud Computing**  
+🎯 **Expert in building web apps, AI-based applications, and cloud-native platforms**  
+📍 **Based in Karachi, Pakistan - Available for Remote Work**  
 </p>
 
- **MERN STACK (SMIT) certified**, ****Nextjs, Tailwindcss. (GIAIC) certified**** , ****AI(Piaic)(GIAIC) (Learning)****,, ****WEB & app (BANOQABIL) certified****
+**Certifications:**  
+✅ **MERN STACK (SMIT) certified**  
+✅ **Next.js & Tailwind CSS (GIAIC) certified**  
+✅ **AI & Machine Learning (PIAIC, GIAIC) - Learning**  
+✅ **Web & App Development (BANOQABIL) certified**  
 
 ---
 
 ## 🔹 **About Me**  
-I am a **Full-Stack Developer** with expertise in **modern web technologies** and a strong background in **Python **. I specialize in **React, Next.js, TypeScript, API development, and cloud-native solutions**. I love solving complex problems and building **high-performance, scalable applications**.
 
-### 🎯 **My Key Focus Areas**  
-✔️ **Building full-fledged e-commerce platforms**  
-✔️ **Developing AI-powered applications**  
-✔️ **Exploring cloud-native technologies**  
-✔️ **Optimizing web performance & scalability**  
+I am an experienced **Full-Stack Developer** with expertise in modern **web development technologies** and **Python-based AI applications**. I specialize in:  
+✅ **React.js, Next.js, and TypeScript** for high-performance UI/UX  
+✅ **Node.js, Express.js, and MongoDB** for scalable backends  
+✅ **Cloud Computing, API integrations, and AI/ML applications**  
 
----
+I love **solving complex problems**, building innovative solutions, and working on **scalable, high-performance web applications**.  
 
-
-
-
-## 🛠️ My Skills
-
-### Frontend Development  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  ![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)  
-![Shadcn/UI](https://img.shields.io/badge/Shadcn%20UI-000000?style=flat-square&logo=react&logoColor=white)  ![DaisyUI](https://img.shields.io/badge/DaisyUI-37C6AB?style=flat-square&logo=tailwindcss&logoColor=white)  
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
-
-### Backend Development  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)  ![Sanity](https://img.shields.io/badge/Sanity-FF2D20?style=flat-square&logo=sanity&logoColor=white)
-
-### DevOps & Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)  ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
+#FullStackDeveloper #NextJS #ReactJS #MERN #TypeScript #Python #AI #MachineLearning #CloudComputing  
 
 ---
 
-## 🚀 **Projects**  
+## 🎯 **Key Focus Areas**  
+
+✔️ **E-commerce & SaaS platforms** - Developing scalable, secure, and high-performance web apps  
+✔️ **AI-Powered Applications** - Integrating machine learning for predictive analytics  
+✔️ **Cloud-Native Technologies** - Serverless, AWS, Google Cloud & Vercel deployment  
+✔️ **Web Performance Optimization** - SEO-friendly, fast, and accessible apps  
+
+#Ecommerce #SaaS #WebDevelopment #AIApplications #APIDevelopment  
+
+---
+
+## 🛠️ **Technical Skills**  
+
+### 🚀 **Frontend Development**  
+✅ **Next.js, React.js, TypeScript, Tailwind CSS**  
+✅ **Shadcn/UI, DaisyUI, Material UI, Ant Design**  
+✅ **JavaScript (ES6+), HTML5, CSS3, Bootstrap**  
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
+
+#FrontendDevelopment #NextJS #ReactJS #TypeScript #UIUX #TailwindCSS  
+
+### ⚙️ **Backend Development**  
+✅ **Node.js, Express.js, MongoDB, Firebase**  
+✅ **REST API, GraphQL, WebSockets, Authentication (JWT, OAuth)**  
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)  
+
+#BackendDevelopment #NodeJS #ExpressJS #MongoDB #APIDevelopment #WebSecurity  
+
+### ☁️ **Cloud & DevOps**  
+✅ **AWS, Google Cloud, Vercel, Netlify**  
+✅ **Git, GitHub, CI/CD pipelines**  
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)  
+
+#CloudComputing #AWS #GoogleCloud #DevOps #Vercel  
+
+---
+
+## 🚀 **Projects & Contributions**  
 
 ### 🔹 **General E-commerce Platform**  
-A complete **Next.js e-commerce platform** with a dynamic product catalog, shopping cart, wishlist, and CMS integration.  
+🛒 **Next.js-powered e-commerce** with a dynamic product catalog, shopping cart, wishlist, and CMS integration.  
 
-https://github.com/samade747/Hackathon-Giaic-Marketplace-Samade747  
+🔗 [GitHub Repo](https://github.com/samade747/Hackathon-Giaic-Marketplace-Samade747)  
+🔗 [Live Project](https://hackathon-project-g-iaic-furniture-web-samads-projects-e4090820.vercel.app/)  
 
-https://hackathon-project-g-iaic-furniture-web-samads-projects-e4090820.vercel.app/  
+### 🔹 **Admin Dashboard**  
+📊 **A fully responsive Admin Dashboard** using **React, TypeScript, and Sanity CMS**.  
 
+🔗 [GitHub Repo](https://github.com/samade747/Hackathon-Project-Dashboard-for-AnyWebsite-Mongodb/tree/main/dashboardmongodb)  
+🔗 [Live Project](https://hackathon-project-dashboard-for-any-website-mongodb.vercel.app/admin/login)  
 
+### 🔹 **Python Projects (AI & ML)**  
+🤖 **Machine Learning & Python projects**  
 
+🔗 [Python Learning Repo](https://github.com/samade747/python-piaic-learning)  
+🔗 [Ramadan Coding Nights](https://github.com/samade747/ramadan-coding-nights)  
 
-### 🔹 **Dash board app  - e**  
-A **fully responsive Dash board app** built using **React, TypeScript, and Sanity CMS**.  
-
-https://github.com/samade747/Hackathon-Project-Dashboard-for-AnyWebsite-Mongodb/tree/main/dashboardmongodb
-
-https://hackathon-project-dashboard-for-any-website-mongodb.vercel.app/admin/login
- 
-
-### 🔹 **smit hackathon project -attendance Dashboard APP **  FRONTEND & BACKEND 
-A ** website** with dynamic menu items, built with **React.js and Tailwind CSS**.  
-
-
-****PYTHON PROJECTS****
-
-https://github.com/samade747/python-piaic-learning  
-
-
-https://github.com/samade747/ramadan-coding-nights/
-
-
-
-
-
+#Projects #Ecommerce #AdminDashboard #PythonML #AIProjects  
 
 ---
 
@@ -98,39 +112,17 @@ https://github.com/samade747/ramadan-coding-nights/
   <img src="https://github-readme-stats.vercel.app/api?username=samade747&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
+#GitHub #OpenSource #WebDevelopment  
+
 ---
 
-## 📬 **Connect with Me**  
+## 📬 **Let's Connect!**  
 
-🌐 **Portfolio**: https://5th-class-assignment-7th-october-my-portfolio-website-v9j2.vercel.app/  
-
-💼 **LinkedIn**: https://www.linkedin.com/in/abdul-samad-7a294766/  
-
+🌐 **Portfolio**: [My Portfolio](https://5th-class-assignment-7th-october-my-portfolio-website-v9j2.vercel.app/)  
+💼 **LinkedIn**: [Abdul Samad](https://www.linkedin.com/in/abdul-samad-7a294766/)  
 📩 **Email**: [samad.e747@gmail.com](mailto:samad.e747@gmail.com)  
+📱 **WhatsApp**: [WhatsApp +923328222026](https://api.whatsapp.com/send/?phone=03328222026&text&type=phone_number&app_absent=0)  
 
+⭐ **Explore my repositories & feel free to contribute!** 🚀  
 
-**Whatsapp** [Whatsapp +923328222026](https://api.whatsapp.com/send/?phone=03328222026&text&type=phone_number&app_absent=0)  
-
-
----
-
-⭐ **Feel free to explore my repositories and contribute!** 🚀  
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samade747&show_icons=true&locale=en&layout=compact" alt="samade747" /></p>  
-
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=samade747&show_icons=true&locale=en" alt="samade747" /></p>  
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samade747&" alt="samade747" /></p>  
-
-
-
-
-
-           
-          
-<a href="https://user-badge.committers.top/pakistan/samade747"> <img src="https://user-badge.committers.top/pakistan/samade747.svg" alt="Top Committer Badge" width="800"> </a>  
-
+#Networking #RemoteWork #TechCommunity #Collaboration  

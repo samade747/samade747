@@ -13,6 +13,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=samade747&style=flat-square)
 
+[Profile Views](https://komarev.com/ghpvc/?username=samade747&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/samade747?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/samade747?label=Stars&style=social)
+
 
 **Certifications:**  
 ✅ **MERN STACK (SMIT) certified**  

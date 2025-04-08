@@ -101,8 +101,11 @@ I love **solving complex problems**, building innovative solutions, and working 
 🔗 [GitHub Repo](https://github.com/samade747/Hackathon-Project-Dashboard-for-AnyWebsite-Mongodb/tree/main/dashboardmongodb)  
 🔗 [Live Project](https://hackathon-project-dashboard-for-any-website-mongodb.vercel.app/admin/login)  
 
+### 🔹 **Javascript & Typescript Projects**  
+🤖 **updated soon**  
+
 ### 🔹 **Python Projects (AI & ML)**  
-🤖 **Machine Learning & Python projects**  
+🤖 **Python projects**  
 
 🔗 [Python Learning Repo](https://github.com/samade747/python-piaic-learning)  
 🔗 [Ramadan Coding Nights](https://github.com/samade747/ramadan-coding-nights)  

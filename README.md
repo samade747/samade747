@@ -22,7 +22,8 @@
 
 **Certifications:**  
 ✅ **MERN STACK (SMIT) certified**  🔗 [MERN STACK (SMIT) certified](https://github.com/samade747/Samad-MERN-STACK-SMIT-certified/blob/main/1738779744327.pdf)  
-✅ **Next.js & Tailwind CSS (GIAIC) certified**  🔗 [GIAIC NEXTJS SANITY FRONTEND & BACKEND](https://github.com/samade747/Samad-MERN-STACK-SMIT-certified/blob/main/giaic%20Q2%20passed.JPG)
+✅ **Next.js & Tailwind CSS (GIAIC) certified**  🔗 [GIAIC NEXTJS SANITY FRONTEND & BACKEND](https://github.com/samade747/Samad-MERN-STACK-SMIT-certified/blob/main/giaic%20Q2%20passed.JPG)  
+
 ✅ **AI & Agentic ai (PIAIC, GIAIC) - Learning**  
 ✅ **Web & App Development (BANOQABIL) certified**  
 

@@ -115,6 +115,13 @@ I love **solving complex problems**, building innovative solutions, and working 
 
 #Projects #Ecommerce #AdminDashboard #PythonML #AIProjects  
 
+### Shopify Portfolio – Developed by Samade747**  
+
+🔗 [Shopify-Portfolio-Developed-by-Samade747](https://github.com/samade747/-Shopify-Portfolio-Developed-by-Samade747)  
+
+
+
+
 ---
 
 ## 📊 **GitHub Stats**  

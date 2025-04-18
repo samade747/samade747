@@ -21,13 +21,13 @@
 
 
 **Certifications:**  
-✅ **MERN STACK (SMIT) certified**  🔗 [MERN STACK (SMIT) certified](https://github.com/samade747/Samad-MERN-STACK-SMIT-certified/blob/main/1738779744327.pdf)  React.js, MongoDB, Express.js, Node.js, javascript  
+✅ **MERN STACK (SMIT) certified**  🔗 [MERN STACK (SMIT) certified](https://github.com/samade747/Samad-MERN-STACK-SMIT-certified/blob/main/1738779744327.pdf)  React.js, MongoDB, Express.js, Node.js, javascript 🔗 (Full Stack) Frontend & Backend Developer 
 
-✅ **Next.js & Tailwind CSS (GIAIC) certified**  🔗 [GIAIC NEXTJS SANITY FRONTEND & BACKEND](https://github.com/samade747/Samad-MERN-STACK-SMIT-certified/blob/main/giaic%20Q2%20passed.JPG)  Next.js,  TypeScript  
+✅ **Next.js & Tailwind CSS (GIAIC) certified**  🔗 [GIAIC NEXTJS SANITY FRONTEND & BACKEND](https://github.com/samade747/Samad-MERN-STACK-SMIT-certified/blob/main/giaic%20Q2%20passed.JPG)  Next.js, TypeScript 🔗 Frontend & Backend Developer 
 
-✅ **AI & Agentic ai (PIAIC, GIAIC) - Learning** 🔗 [Python Learning AI & Agentic ai ](https://github.com/samade747/python-piaic-learning)
+✅ **AI & Agentic ai (PIAIC, GIAIC) - Learning** 🔗 [Python Learning AI & Agentic ai ](https://github.com/samade747/python-piaic-learning) 🔗 AI & Agentic ai (Expetise growing)
 
-✅ **Web Development (BANOQABIL) certified**  🔗 [Javascript web dev](https://github.com/samade747/Samad-MERN-STACK-SMIT-certified/blob/main/1729231020356.jpeg)  Next.js,  TypeScript
+✅ **Web Development (BANOQABIL) certified**  🔗 [Javascript web dev](https://github.com/samade747/Samad-MERN-STACK-SMIT-certified/blob/main/1729231020356.jpeg)  Javascript web dev
 
 ---
 

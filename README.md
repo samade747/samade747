@@ -57,6 +57,8 @@ I love **solving complex problems**, building innovative solutions, and working 
 
 ## 🛠️ **Technical Skills**  
 
+
+
 ### 🚀 **Frontend Development**  
 ✅ **Next.js, React.js, TypeScript, Tailwind CSS**  
 ✅ **Shadcn/UI, DaisyUI, Material UI, Ant Design**  
@@ -91,6 +93,10 @@ I love **solving complex problems**, building innovative solutions, and working 
 ---
 
 ## 🚀 **Projects & Contributions**  
+
+
+### 🔹 **AI AGENTS Development**
+🔗 [AI AGENTS Development BY samaddeveloper](https://github.com/samade747/AI-Agents-Development-by-samaddeveloper)
 
 ### 🔹 **General E-commerce Platform**  
 🛒 **Next.js-powered e-commerce** with a dynamic product catalog, shopping cart, wishlist, and CMS integration.  

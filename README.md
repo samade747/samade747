@@ -96,7 +96,11 @@ I love **solving complex problems**, building innovative solutions, and working 
 
 
 ### 🔹 **AI AGENTS Development**
-🔗 [AI AGENTS Development BY samaddeveloper](https://github.com/samade747/AI-Agents-Development-by-samaddeveloper)
+🔗 [AI AGENTS Development BY samaddeveloper](https://github.com/samade747/AI-Agents-Development-by-samaddeveloper)  
+
+https://aiagentchatbot-samad.streamlit.app/  
+
+
 
 ### 🔹 **General E-commerce Platform**  
 🛒 **Next.js-powered e-commerce** with a dynamic product catalog, shopping cart, wishlist, and CMS integration.  

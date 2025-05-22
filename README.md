@@ -27,8 +27,8 @@
 
 ✅ **AI & Agentic ai (PIAIC, GIAIC) - ** 🔗 [OpenAI-Agents-SDK](https://github.com/samade747/OpenAI-Agents-SDK) 🔗 AI & Agentic ai (Expertise growing) OpenRouter / agents building 
   
-✅ **Python ** [Python Learning OOP](https://github.com/samade747/OOP-PRO) 🔗 python  (Expertise growing)  
-✅ **Python ** [Python Learning AI & Agentic ai ](https://github.com/samade747/python-piaic-learning)  python   (Expertise growing) 
+✅ **Python OOP** [Python Learning OOP](https://github.com/samade747/OOP-PRO) 🔗 python  (Expertise growing)  
+✅ **Python** [Python Learning AI & Agentic ai ](https://github.com/samade747/python-piaic-learning)  python   (Expertise growing) 
 
 ✅ **Web Development (BANOQABIL) certified**  🔗 [Javascript web dev](https://github.com/samade747/Samad-MERN-STACK-SMIT-certified/blob/main/1729231020356.jpeg)  Javascript web dev
 

@@ -25,10 +25,10 @@
 
 ✅ **Next.js & Tailwind CSS (GIAIC) certified**  🔗 [GIAIC NEXTJS SANITY FRONTEND & BACKEND](https://github.com/samade747/Samad-MERN-STACK-SMIT-certified/blob/main/giaic%20Q2%20passed.JPG)  Next.js, TypeScript 🔗 Frontend & Backend Developer 
 
-✅ **AI & Agentic ai (PIAIC, GIAIC) - Learning** 🔗 [OpenAI-Agents-SDK](https://github.com/samade747/OpenAI-Agents-SDK)
+✅ **AI & Agentic ai (PIAIC, GIAIC) - Learning** 🔗 [OpenAI-Agents-SDK](https://github.com/samade747/OpenAI-Agents-SDK) 🔗 AI & Agentic ai (Expertise growing) OpenRouter / agents building 
   
-✅ **Python Learning** [Python Learning OOP](https://github.com/samade747/OOP-PRO) 🔗 AI & Agentic ai (Expertise growing)  
-✅ **Python Learning** [Python Learning AI & Agentic ai ](https://github.com/samade747/python-piaic-learning) 
+✅ **Python Learning** [Python Learning OOP](https://github.com/samade747/OOP-PRO) 🔗 python Learning (Expertise growing)  
+✅ **Python Learning** [Python Learning AI & Agentic ai ](https://github.com/samade747/python-piaic-learning)  python Learning  (Expertise growing) 
 
 ✅ **Web Development (BANOQABIL) certified**  🔗 [Javascript web dev](https://github.com/samade747/Samad-MERN-STACK-SMIT-certified/blob/main/1729231020356.jpeg)  Javascript web dev
 

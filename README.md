@@ -103,7 +103,16 @@ I love **solving complex problems**, building innovative solutions, and working 
 
 ### 🔹 chatbot  
  🔹live  https://aiagentchatbot-samad.streamlit.app/  
-🔹code  https://github.com/samade747/class-07---april-21/blob/main/chatbot.py
+🔹code  https://github.com/samade747/class-07---april-21/blob/main/chatbot.py  
+
+### 🔹 AI Pickup lines genertor 
+🔗 🔹 Live Demo & Repo 
+🔗 🔹 Try It Live: https://lnkd.in/dGKV6tVQ
+
+👉 
+📂 🔹 GitHub 
+👉 🔹 https://lnkd.in/dA3yGJUE
+
 
 
 

@@ -97,6 +97,10 @@ I love **solving complex problems**, building innovative solutions, and working 
 
 ## 🚀 **Projects & Contributions**  
 
+### 🔹 **AI AGENTS Development live now **
+🔗 [AI AGENTS Development](https://www.aicodeshub.com/)  
+
+
 
 ### 🔹 **AI AGENTS Development**
 🔗 [AI AGENTS Development BY samaddeveloper](https://github.com/samade747/AI-Agents-Development-by-samaddeveloper)  

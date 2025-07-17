@@ -32,7 +32,11 @@
 
 ✅ **Web Development (BANOQABIL) certified**  🔗 [Javascript web dev](https://github.com/samade747/Samad-MERN-STACK-SMIT-certified/blob/main/1729231020356.jpeg)  Javascript web dev
 
----
+---  
+
+<p align="center">
+  <img src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif" width="400" alt="coding-girl-animation" />
+</p>
 
 ## 🔹 **About Me**  
 

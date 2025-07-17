@@ -156,7 +156,18 @@ I love **solving complex problems**, building innovative solutions, and working 
 
 ---
 
-## 📊 **GitHub Stats**  
+## 📊 **GitHub Stats**   
+
+### 🚀 Tech Stack
+
+- 💻 **Languages**: Python, JavaScript, HTML, CSS, SQL  
+- 🧰 **Frameworks**: FastAPI, React, jQuery, Bootstrap  
+- 🛠 **Tools & DB**: Git, Docker, MySQL, PostgreSQL, SQLite, Redis  
+- 🖥 **OS & Systems**: Linux, Networking, LPIC
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,html,css,js,bootstrap,redis,git,linux,docker,postgresql" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samade747&theme=dark&hide_border=false" alt="GitHub Streak Stats" />

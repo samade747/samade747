@@ -183,13 +183,13 @@ I love **solving complex problems**, building innovative solutions, and working 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=samade747&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
   
   <br/>
-  ![Profile Views](https://komarev.com/ghpvc/?username=samade747&label=Profile%20Views&color=blue&style=plastic)  
+  
 
 
  
 </div>
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=samade747&label=Profile%20Views&color=blue&style=plastic)  
 ---
 
 ## 📬 **Let's Connect!**  

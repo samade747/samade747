@@ -177,6 +177,11 @@ I love **solving complex problems**, building innovative solutions, and working 
   <img src="https://github-readme-stats.vercel.app/api?username=samade747&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
+
+
+### 📊 GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samade747&show_icons=true&theme=radical" width="47%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samade747&layout=compact&theme=radical" width="47%" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=samade747&theme=radical" width="60%" /> </p>
+
 #GitHub #OpenSource #WebDevelopment  
 
 ---

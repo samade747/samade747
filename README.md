@@ -34,11 +34,9 @@
 
 ---  
 
-<p align="center">
+<p align="left">
   <img src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif" width="400" alt="coding-girl-animation" />
-</p>
-
-## 🔹 **About Me**  
+</p> ## 🔹 **About Me**  
 
 I am an experienced **Full-Stack Developer** with expertise in modern **web development technologies** and **Python-based AI applications**. I specialize in:  
 ✅ **React.js, Next.js, and TypeScript** for high-performance UI/UX  

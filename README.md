@@ -178,7 +178,26 @@ I love **solving complex problems**, building innovative solutions, and working 
 </p>
 
 
-
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samade747&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  
+  <br/>
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=samde747&show_icons=true&theme=github_dark_dimmed&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=00D9FF&hide_border=true" width="100%"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=samde747&theme=github_dark_dimmed&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF&hide_border=true" width="100%"/>
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samde747&theme=github_dark_dimmed&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=00D9FF&hide_border=true&layout=compact&langs_count=8" width="50%"/>
+  
+</div>
 
 
 ---

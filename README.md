@@ -195,7 +195,7 @@ I love **solving complex problems**, building innovative solutions, and working 
     </tr>
   </table>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samde747&theme=github_dark_dimmed&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=00D9FF&hide_border=true&layout=compact&langs_count=8" width="50%"/>
+  <
   
 </div>
 

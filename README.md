@@ -183,6 +183,12 @@ I love **solving complex problems**, building innovative solutions, and working 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=samade747&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
   
   <br/>
+
+  <td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=samade747&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
   
 
 

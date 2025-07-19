@@ -240,7 +240,7 @@ I love **solving complex problems**, building innovative solutions, and working 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,express,figma,github,html,java,js,linux,mongodb,mysql,nodejs,postman,py,react,redux,tailwind,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,shopify,wordpress,wix,aws,cpp,css,discord,docker,postgres,express,figma,github,html,java,js,linux,mongodb,mysql,nodejs,postman,py,react,redux,tailwind,vscode,kubernetes&perline=14" />
   </a>
 </p>
 

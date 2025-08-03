@@ -33,11 +33,12 @@
 ✅ **Web Development (BANOQABIL) certified**  🔗 [Javascript web dev](https://github.com/samade747/Samad-MERN-STACK-SMIT-certified/blob/main/1729231020356.jpeg)  Javascript web dev
 
 ---  
-<p align="center">
+<p align="left">
   <img src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif" width="400" alt="coding-boy-animation" />
 </p> 
-  
-
+<p align="right">
+  ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+</p> 
 ## 🔹 **About Me**  
 
 I am an experienced **Full-Stack Developer** with expertise in modern **web development technologies** and **Python-based AI applications**. I specialize in:  

@@ -278,12 +278,17 @@ I love **solving complex problems**, building innovative solutions, and working 
   </a>
 </p>
 
+<h3>
   <a href="https://share.google/images/g8NPYivXnJJVvroAU" target="_blank" rel="noopener noreferrer">
-   <h3>github</h3>
+    GitHub
   </a>
+</h3>
+
+<h3>
   <a href="https://share.google/images/ElRI23R8KDQRz1zxz" target="_blank" rel="noopener noreferrer">
-   <h3>Linkdein</h3>
+    LinkedIn
   </a>
+</h3>
 
 
 

@@ -44,7 +44,8 @@
  
 ## 🔹 **About Me**  
 
-I am an experienced **Full-Stack Developer** with expertise in modern **web development technologies** and **Python-based AI applications**. I specialize in:  
+I am an experienced **Full-Stack Developer** with expertise in modern **web development technologies** and **Python-based AI applications**. I specialize in:
+**“Senior MERN + AI Developer | Next.js & RAG/LLM Specialist | OpenAI/Gemini Apps”**
 ✅ **React.js, Next.js, and TypeScript** for high-performance UI/UX  
 ✅ **Node.js, Express.js, and MongoDB** for scalable backends  
 ✅ **Cloud Computing, API integrations, and AI/ML applications**  

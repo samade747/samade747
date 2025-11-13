@@ -130,6 +130,11 @@ I love **solving complex problems**, building innovative solutions, and working 
 📂 🔹 GitHub 
 👉 🔹 https://lnkd.in/dA3yGJUE
 
+“Top MERN Stack Developer in Pakistan”
+
+“AI Web App Developer from Pakistan”
+
+“OpenAI + Next.js Full-Stack Engineer”
 
 
 
@@ -302,11 +307,6 @@ I love **solving complex problems**, building innovative solutions, and working 
 <meta name="description" content="Abdul Samad — MERN & AI Developer from Pakistan building full-stack Next.js and AI-powered apps.">
 
 
-“Top MERN Stack Developer in Pakistan”
-
-“AI Web App Developer from Pakistan”
-
-“OpenAI + Next.js Full-Stack Engineer”
 
 
 <!--profile visit count-->

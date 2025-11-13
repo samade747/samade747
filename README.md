@@ -10,6 +10,7 @@
 🎯 **Expert in building web apps, AI-based applications, and cloud-native platforms**  
 📍 **Based in Karachi, Pakistan - Available for Remote Work**
   💻 MERN + AI Developer | Next.js • Node.js • OpenAI/Gemini | Pakistan 🇵🇰
+  MERN Stack Developer Pakistan”  “Developer Pakistan AI
 
   
  📍 **Working as a Lead Full Stack Engineer with Turing(a Silicon Valley startup, facilitates the hiring of senior pre-vetted remote developers for U.S. and Silicon Valley companies). Joined as a part of their rigorous pre-vetting process**📍   

@@ -298,6 +298,9 @@ I love **solving complex problems**, building innovative solutions, and working 
 </h3>
 
 
+<meta name="description" content="Abdul Samad — MERN & AI Developer from Pakistan building full-stack Next.js and AI-powered apps.">
+
+
 
 <!--profile visit count-->
 <div align="center">

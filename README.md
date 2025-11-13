@@ -313,5 +313,16 @@ I love **solving complex problems**, building innovative solutions, and working 
 <div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=samade747=3&color=7)](https://visitcount.itsvg.in)
+
+<meta name="description" content="Abdul Samad — MERN Stack & AI Developer from Pakistan creating full-stack apps with Next.js and OpenAI.">
+<meta name="keywords" content="MERN Stack Developer Pakistan, AI Developer Pakistan, Next.js, Node.js, OpenAI, Streamlit">
+
+
+ Abdul Samad — MERN & AI Developer 🇵🇰
+🚀 Building full-stack & AI-powered web apps with Next.js, Node.js, MongoDB, and OpenAI.
+
+🔗 [Portfolio](https://5th-class-assignment-7th-october-my-portfolio-website-v9j2.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/webdeveloper-mern-stack-specialist-samaddeveloper-aiagentsdev/) | [Upwork](https://www.upwork.com/freelancers/~013ca939a5fad1c365)
+
+**Stacks:** React • Next.js • Node.js • MongoDB • Streamlit • FastAPI • OpenAI SDK • Gemini API
               
 

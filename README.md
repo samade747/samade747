@@ -8,7 +8,9 @@
 <p align="center">
 💻 **Full-Stack Developer | MERN | Next.js | TypeScript | Python | AI | Cloud Computing**  
 🎯 **Expert in building web apps, AI-based applications, and cloud-native platforms**  
-📍 **Based in Karachi, Pakistan - Available for Remote Work**  
+📍 **Based in Karachi, Pakistan - Available for Remote Work**
+  💻 MERN + AI Developer | Next.js • Node.js • OpenAI/Gemini | Pakistan 🇵🇰
+
   
  📍 **Working as a Lead Full Stack Engineer with Turing(a Silicon Valley startup, facilitates the hiring of senior pre-vetted remote developers for U.S. and Silicon Valley companies). Joined as a part of their rigorous pre-vetting process**📍   
 📍 **5 years of experience including 2+ years specialized in modern LLM/AI applications**📍  

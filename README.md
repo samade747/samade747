@@ -11,7 +11,8 @@
 📍 **Based in Karachi, Pakistan - Available for Remote Work**  
   
  📍 **Working as a Lead Full Stack Engineer with Turing(a Silicon Valley startup, facilitates the hiring of senior pre-vetted remote developers for U.S. and Silicon Valley companies). Joined as a part of their rigorous pre-vetting process**📍   
-📍 **5 years of experience including 2+ years specialized in modern LLM/AI applications**📍 
+📍 **5 years of experience including 2+ years specialized in modern LLM/AI applications**📍  
+**“Senior MERN + AI Developer | Next.js & RAG/LLM Specialist | OpenAI/Gemini Apps”**
 </p>  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=samade747&style=flat-square)

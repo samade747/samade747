@@ -1,7 +1,6 @@
-<!-- Banner Image -->
 <p align="center">
   <video width="100%" controls autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/samade747/samade747/assets/aiagentixz.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/samade747/samade747/main/assets/aiagentixz.mp4" type="video/mp4">
   </video>
 </p>
 

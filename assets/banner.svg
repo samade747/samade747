@@ -1,0 +1,73 @@
+<svg width="900" height="190" viewBox="0 0 900 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="900" y2="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="50%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#1A1F2E"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D9FF"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#FF6B35"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00D9FF"/>
+      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="190" rx="14" fill="url(#bgGrad)"/>
+
+  <!-- Decorative dot grid -->
+  <g fill="#00D9FF" opacity="0.06">
+    <circle cx="30" cy="30" r="1.5"/> <circle cx="60" cy="30" r="1.5"/> <circle cx="90" cy="30" r="1.5"/>
+    <circle cx="30" cy="60" r="1.5"/> <circle cx="60" cy="60" r="1.5"/> <circle cx="90" cy="60" r="1.5"/>
+    <circle cx="30" cy="90" r="1.5"/> <circle cx="60" cy="90" r="1.5"/> <circle cx="90" cy="90" r="1.5"/>
+    <circle cx="810" cy="100" r="1.5"/> <circle cx="840" cy="100" r="1.5"/> <circle cx="870" cy="100" r="1.5"/>
+    <circle cx="810" cy="130" r="1.5"/> <circle cx="840" cy="130" r="1.5"/> <circle cx="870" cy="130" r="1.5"/>
+    <circle cx="810" cy="160" r="1.5"/> <circle cx="840" cy="160" r="1.5"/> <circle cx="870" cy="160" r="1.5"/>
+  </g>
+
+  <!-- Glow orbs -->
+  <circle cx="90" cy="95" r="70" fill="#00D9FF" opacity="0.04"/>
+  <circle cx="810" cy="95" r="70" fill="#FF6B35" opacity="0.04"/>
+  <circle cx="450" cy="20" r="50" fill="#7C3AED" opacity="0.04"/>
+
+  <!-- Wave decoration at bottom -->
+  <path d="M0,155 Q225,130 450,155 Q675,180 900,155 L900,190 L0,190 Z" fill="#00D9FF" opacity="0.04"/>
+
+  <!-- Divider line with glow -->
+  <rect x="200" y="118" width="500" height="1" fill="url(#lineGrad)" opacity="0.4"/>
+
+  <!-- Main name -->
+  <text x="450" y="76" text-anchor="middle"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="46" font-weight="700" fill="url(#nameGrad)" filter="url(#glow)">Abdul Samad</text>
+
+  <!-- Title -->
+  <text x="450" y="108" text-anchor="middle"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="16" font-weight="500" fill="#C9D1D9" letter-spacing="0.5">
+    Senior Full-Stack Developer  &amp;  AI Engineer
+  </text>
+
+  <!-- Skills row -->
+  <text x="450" y="138" text-anchor="middle"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="12.5" fill="#00D9FF" opacity="0.85" letter-spacing="0.3">
+    MERN · Next.js 14/15 · TypeScript · Python · OpenAI · LangChain · RAG Pipelines · AI Agents
+  </text>
+
+  <!-- Location row -->
+  <text x="450" y="163" text-anchor="middle"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="11.5" fill="#6E7681" letter-spacing="0.2">
+    Karachi, Pakistan  ·  Turing Lead Engineer (Silicon Valley)  ·  Available Remote Worldwide
+  </text>
+</svg>

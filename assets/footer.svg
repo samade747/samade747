@@ -1,0 +1,33 @@
+<svg width="900" height="100" viewBox="0 0 900 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footBg" x1="0" y1="0" x2="900" y2="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1A1F2E"/>
+      <stop offset="50%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="footLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#00D9FF"/>
+      <stop offset="70%" stop-color="#FF6B35"/>
+      <stop offset="100%" stop-color="#FF6B35" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="100" rx="14" fill="url(#footBg)"/>
+  <path d="M0,20 Q225,55 450,20 Q675,-15 900,20 L900,0 L0,0 Z" fill="#00D9FF" opacity="0.04"/>
+  <rect x="100" y="45" width="700" height="1" fill="url(#footLine)" opacity="0.3"/>
+  <text x="450" y="38" text-anchor="middle"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="13" font-weight="600" fill="#00D9FF" opacity="0.9">
+    Open to Work · Remote Worldwide · AI Development · Full-Stack Engineering · Freelance
+  </text>
+  <text x="450" y="65" text-anchor="middle"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="11" fill="#6E7681">
+    Abdul Samad · samad.e747@gmail.com · aiagentixz.com · Karachi, Pakistan
+  </text>
+  <text x="450" y="85" text-anchor="middle"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="10" fill="#3D444D">
+    © 2025 Abdul Samad · Senior Full-Stack &amp; AI Developer · All rights reserved
+  </text>
+</svg>

@@ -60,9 +60,9 @@
 
 ## Abdul Samad — Senior Full-Stack Developer & AI Engineer | Pakistan 🇵🇰
 
-**Abdul Samad** is a **Senior Full-Stack Developer and AI Engineer** from **Karachi, Pakistan** with **5+ years of professional experience** building scalable web applications, production-grade AI systems, and enterprise automation platforms. Founder of **[AI Agentixz](https://www.aiagentixz.com/)** — a USA-based AI Chatbot, Web & App Development, and Automation Agency.
+**Abdul Samad** is a **Senior Full-Stack Developer and AI Engineer** from **Karachi, Pakistan** with **5+ years of professional experience** building scalable web applications, production-grade AI systems, and enterprise automation platforms. Founder of <a href="https://www.aiagentixz.com/" target="_blank" rel="noopener noreferrer"><strong>AI Agentixz</strong></a> — a USA-based AI Chatbot, Web & App Development, and Automation Agency.
 
-Currently serving as a **Lead Full-Stack Engineer at [Turing](https://www.turing.com/)** (Silicon Valley) — connecting the world's top 1% of pre-vetted engineers with leading U.S. tech companies. **2+ years specialized** in LLM/AI applications: OpenAI GPT-4o, Gemini, Claude, LangChain, RAG pipelines, vector databases, and multi-agent systems.
+Currently serving as a **Lead Full-Stack Engineer at** <a href="https://www.turing.com/" target="_blank" rel="noopener noreferrer"><strong>Turing</strong></a> (Silicon Valley) — connecting the world's top 1% of pre-vetted engineers with leading U.S. tech companies. **2+ years specialized** in LLM/AI applications: OpenAI GPT-4o, Gemini, Claude, LangChain, RAG pipelines, vector databases, and multi-agent systems.
 
 ```
 🏆  Role        →  Lead Full-Stack Engineer @ Turing (Silicon Valley, USA)
@@ -89,7 +89,7 @@ Currently serving as a **Lead Full-Stack Engineer at [Turing](https://www.turing
 
 ## 🏢 AI Agentixz — Full-Service AI & Software Development Agency
 
-**[AI Agentixz](https://www.aiagentixz.com/)** is a **USA-registered AI & Software Development Agency** delivering end-to-end digital solutions for startups, SMBs, and enterprises globally. We combine production-grade engineering with cutting-edge AI to build intelligent, scalable products that generate real business results.
+<a href="https://www.aiagentixz.com/" target="_blank" rel="noopener noreferrer"><strong>AI Agentixz</strong></a> is a **USA-registered AI & Software Development Agency** delivering end-to-end digital solutions for startups, SMBs, and enterprises globally. We combine production-grade engineering with cutting-edge AI to build intelligent, scalable products that generate real business results.
 
 > 📩 **To start a project:** <a href="mailto:samad.e747@gmail.com">samad.e747@gmail.com</a> · <a href="https://api.whatsapp.com/send/?phone=923328222026" target="_blank" rel="noopener noreferrer">WhatsApp</a> · <a href="https://www.upwork.com/freelancers/~013ca939a5fad1c365" target="_blank" rel="noopener noreferrer">Upwork</a> · <a href="https://www.aiagentixz.com/" target="_blank" rel="noopener noreferrer">aiagentixz.com</a>
 

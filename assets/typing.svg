@@ -1,0 +1,106 @@
+<svg width="820" height="58" viewBox="0 0 820 58" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tbg" x1="0" y1="0" x2="820" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#060A12"/>
+      <stop offset="100%" stop-color="#0C1220"/>
+    </linearGradient>
+    <linearGradient id="tline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#00D4FF" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#00D4FF" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#00D4FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .tline {
+      font-family: 'Courier New', 'Lucida Console', 'Consolas', monospace;
+      font-size: 15px;
+      font-weight: 600;
+      fill: #38BDF8;
+      text-anchor: middle;
+      dominant-baseline: middle;
+      opacity: 0;
+    }
+    .prefix { fill: #818CF8; }
+    .cursor {
+      fill: #00D4FF;
+      animation: blink 0.85s step-end infinite;
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50%       { opacity: 0; }
+    }
+
+    /* 8 lines × 3 s each = 24 s total cycle
+       Each line is visible 2–11 % of 24 s (≈ 0.48 s–2.64 s)
+       Fade in 2 %, hold 9 %, fade out 1.5 %, invisible rest */
+    @keyframes cycle {
+      0%          { opacity: 0; }
+      2%          { opacity: 1; }
+      11%         { opacity: 1; }
+      12.5%       { opacity: 0; }
+      13%, 100%   { opacity: 0; }
+    }
+
+    .l1 { animation: cycle 24s  0s   infinite; }
+    .l2 { animation: cycle 24s -21s  infinite; }
+    .l3 { animation: cycle 24s -18s  infinite; }
+    .l4 { animation: cycle 24s -15s  infinite; }
+    .l5 { animation: cycle 24s -12s  infinite; }
+    .l6 { animation: cycle 24s  -9s  infinite; }
+    .l7 { animation: cycle 24s  -6s  infinite; }
+    .l8 { animation: cycle 24s  -3s  infinite; }
+  </style>
+
+  <!-- Background -->
+  <rect width="820" height="58" rx="8" fill="url(#tbg)"/>
+  <!-- Subtle top & bottom accent lines -->
+  <rect x="0" y="0"  width="820" height="1" fill="url(#tline)"/>
+  <rect x="0" y="57" width="820" height="1" fill="url(#tline)"/>
+
+  <!-- LINE 1 -->
+  <text class="tline l1" x="400" y="29">
+    <tspan class="prefix">▸ </tspan>AI Chatbot &amp; AI Agents Developer | OpenAI | Gemini | LangChain
+  </text>
+
+  <!-- LINE 2 -->
+  <text class="tline l2" x="400" y="29">
+    <tspan class="prefix">▸ </tspan>Full-Stack Web Developer | MERN | Next.js 14/15 | TypeScript
+  </text>
+
+  <!-- LINE 3 -->
+  <text class="tline l3" x="400" y="29">
+    <tspan class="prefix">▸ </tspan>Mobile &amp; App Developer | React Native | PWA | Expo
+  </text>
+
+  <!-- LINE 4 -->
+  <text class="tline l4" x="400" y="29">
+    <tspan class="prefix">▸ </tspan>AI Automation &amp; Workflow Engineer | n8n | Python | Zapier
+  </text>
+
+  <!-- LINE 5 -->
+  <text class="tline l5" x="400" y="29">
+    <tspan class="prefix">▸ </tspan>DevOps &amp; Cloud Engineer | AWS | Docker | Kubernetes
+  </text>
+
+  <!-- LINE 6 -->
+  <text class="tline l6" x="400" y="29">
+    <tspan class="prefix">▸ </tspan>E-Commerce Developer | Shopify | Next.js Commerce | Stripe
+  </text>
+
+  <!-- LINE 7 -->
+  <text class="tline l7" x="400" y="29">
+    <tspan class="prefix">▸ </tspan>LLM &amp; RAG Engineer | Pinecone | LangChain | LlamaIndex
+  </text>
+
+  <!-- LINE 8 -->
+  <text class="tline l8" x="400" y="29">
+    <tspan class="prefix">▸ </tspan>Turing-Vetted Lead Engineer | Top 1% Global Developers
+  </text>
+
+  <!-- Blinking cursor (always visible, sits after the text visually) -->
+  <text class="cursor" x="780" y="29"
+    font-family="'Courier New', monospace"
+    font-size="18" font-weight="700"
+    dominant-baseline="middle">|</text>
+</svg>

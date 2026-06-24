@@ -29,7 +29,7 @@
 <br/><br/>
 
 <!-- CONTACT & HIRE BADGES -->
-<a href="https://www.linkedin.com/in/webdeveloper-mern-stack-specialist-samaddeveloper-aiagentsdev/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/samaddeveloper-aiagents-developer/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn — Abdul Samad Full-Stack AI Developer"/>
 </a>
 <a href="https://www.aiagentixz.com/" target="_blank" rel="noopener noreferrer">

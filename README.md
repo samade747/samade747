@@ -58,7 +58,7 @@
 
 ---
 
-## Abdul Samad — Senior Full-Stack Developer & AI Engineer | Pakistan 🇵🇰
+## Samad — Senior Full-Stack Developer & AI Engineer | Pakistan 🇵🇰
 
 **Abdul Samad** is a **Senior Full-Stack Developer and AI Engineer** from **Karachi, Pakistan** with **5+ years of professional experience** building scalable web applications, production-grade AI systems, and enterprise automation platforms. Founder of <a href="https://www.aiagentixz.com/" target="_blank" rel="noopener noreferrer"><strong>AI Agentixz</strong></a> — a USA-based AI Chatbot, Web & App Development, and Automation Agency.
 

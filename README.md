@@ -7,8 +7,8 @@
 
 <br/><br/>
 
-<!-- ANIMATED TYPING — cycling through all services -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=🤖+AI+Chatbot+%26+AI+Agents+Developer+%7C+OpenAI+%7C+Gemini+%7C+LangChain;🌐+Full-Stack+Web+Developer+%7C+MERN+%7C+Next.js+14%2F15+%7C+TypeScript;📱+Mobile+%26+App+Developer+%7C+React+Native+%7C+PWA;⚙️+AI+Automation+%26+Workflow+Engineer+%7C+n8n+%7C+Python;☁️+DevOps+%26+Cloud+Engineer+%7C+AWS+%7C+Docker+%7C+Kubernetes;🛒+E-Commerce+Developer+%7C+Shopify+%7C+Next.js+Commerce+%7C+Stripe;🧠+LLM+%26+RAG+Engineer+%7C+Pinecone+%7C+LangChain+%7C+LlamaIndex;🚀+Turing-Vetted+Lead+Engineer+%7C+Top+1%25+Global+Developers" alt="Abdul Samad services — AI Chatbot Developer, Full-Stack Developer, MERN Stack, Next.js, OpenAI, Python, DevOps, Pakistan"/>
+<!-- ANIMATED TYPING — self-hosted SVG, always loads, no external dependency -->
+<img src="https://raw.githubusercontent.com/samade747/samade747/main/assets/typing.svg" width="820" alt="Abdul Samad services: AI Chatbot Developer, Full-Stack Developer, MERN Stack, Next.js, OpenAI, AI Agents, Python, DevOps, Pakistan"/>
 
 <br/><br/>
 

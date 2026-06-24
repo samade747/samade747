@@ -1,33 +1,56 @@
-<svg width="900" height="100" viewBox="0 0 900 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="90" viewBox="0 0 900 90" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="footBg" x1="0" y1="0" x2="900" y2="100" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#1A1F2E"/>
-      <stop offset="50%" stop-color="#161B22"/>
-      <stop offset="100%" stop-color="#0D1117"/>
+    <linearGradient id="footBg" x1="0" y1="0" x2="900" y2="90" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#0C1220"/>
+      <stop offset="100%" stop-color="#060A12"/>
     </linearGradient>
     <linearGradient id="footLine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0"/>
-      <stop offset="30%" stop-color="#00D9FF"/>
-      <stop offset="70%" stop-color="#FF6B35"/>
-      <stop offset="100%" stop-color="#FF6B35" stop-opacity="0"/>
+      <stop offset="0%"   stop-color="#00D4FF" stop-opacity="0"/>
+      <stop offset="25%"  stop-color="#00D4FF"/>
+      <stop offset="75%"  stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0"/>
     </linearGradient>
+    <pattern id="footDots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.8" fill="#FFFFFF" opacity="0.03"/>
+    </pattern>
   </defs>
-  <rect width="900" height="100" rx="14" fill="url(#footBg)"/>
-  <path d="M0,20 Q225,55 450,20 Q675,-15 900,20 L900,0 L0,0 Z" fill="#00D9FF" opacity="0.04"/>
-  <rect x="100" y="45" width="700" height="1" fill="url(#footLine)" opacity="0.3"/>
-  <text x="450" y="38" text-anchor="middle"
+
+  <!-- Background -->
+  <rect width="900" height="90" rx="12" fill="url(#footBg)"/>
+
+  <!-- Dot texture -->
+  <rect width="900" height="90" fill="url(#footDots)"/>
+
+  <!-- Top accent border -->
+  <rect x="0" y="0" width="900" height="1" rx="0" fill="url(#footLine)" opacity="0.6"/>
+
+  <!-- Corner brackets -->
+  <rect x="20" y="8"  width="18" height="1.5" rx="1" fill="#00D4FF" opacity="0.4"/>
+  <rect x="20" y="8"  width="1.5" height="18" rx="1" fill="#00D4FF" opacity="0.4"/>
+  <rect x="862" y="8" width="18" height="1.5" rx="1" fill="#818CF8" opacity="0.4"/>
+  <rect x="878.5" y="8" width="1.5" height="18" rx="1" fill="#818CF8" opacity="0.4"/>
+
+  <!-- Divider -->
+  <rect x="250" y="42" width="400" height="1" rx="1" fill="url(#footLine)" opacity="0.3"/>
+
+  <!-- Top line -->
+  <text x="450" y="34"
     font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-    font-size="13" font-weight="600" fill="#00D9FF" opacity="0.9">
-    Open to Work · Remote Worldwide · AI Development · Full-Stack Engineering · Freelance
+    font-size="11" font-weight="600" fill="#38BDF8" text-anchor="middle" letter-spacing="1.5">
+    OPEN TO WORK  ·  REMOTE WORLDWIDE  ·  FREELANCE  ·  FULL-TIME  ·  CONTRACTS
   </text>
-  <text x="450" y="65" text-anchor="middle"
+
+  <!-- Bottom line -->
+  <text x="450" y="60"
     font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-    font-size="11" fill="#6E7681">
-    Abdul Samad · samad.e747@gmail.com · aiagentixz.com · Karachi, Pakistan
+    font-size="10" fill="#475569" text-anchor="middle" letter-spacing="0.8">
+    Abdul Samad  ·  samad.e747@gmail.com  ·  aiagentixz.com  ·  +92 332 822 2026
   </text>
-  <text x="450" y="85" text-anchor="middle"
+
+  <!-- Copyright -->
+  <text x="450" y="78"
     font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-    font-size="10" fill="#3D444D">
-    © 2025 Abdul Samad · Senior Full-Stack &amp; AI Developer · All rights reserved
+    font-size="9" fill="#1E293B" text-anchor="middle" letter-spacing="0.5">
+    © 2025 Abdul Samad · Senior Full-Stack &amp; AI Developer · Karachi, Pakistan
   </text>
 </svg>

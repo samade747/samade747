@@ -1,73 +1,137 @@
-<svg width="900" height="190" viewBox="0 0 900 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="220" viewBox="0 0 900 220" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bgGrad" x1="0" y1="0" x2="900" y2="190" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#0D1117"/>
-      <stop offset="50%" stop-color="#161B22"/>
-      <stop offset="100%" stop-color="#1A1F2E"/>
+    <!-- Deep corporate dark background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#060A12"/>
+      <stop offset="100%" stop-color="#0C1220"/>
     </linearGradient>
+    <!-- Name gradient: cyan → electric blue -->
     <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00D9FF"/>
-      <stop offset="50%" stop-color="#7C3AED"/>
-      <stop offset="100%" stop-color="#FF6B35"/>
+      <stop offset="0%"   stop-color="#00D4FF"/>
+      <stop offset="55%"  stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#818CF8"/>
     </linearGradient>
-    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#00D9FF"/>
-      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0"/>
+    <!-- Accent line gradient -->
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#00D4FF" stop-opacity="0"/>
+      <stop offset="20%"  stop-color="#00D4FF"/>
+      <stop offset="80%"  stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0"/>
     </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
+    <!-- Left column accent -->
+    <linearGradient id="leftBar" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#00D4FF" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#00D4FF"/>
+      <stop offset="100%" stop-color="#00D4FF" stop-opacity="0"/>
+    </linearGradient>
+    <!-- Dot grid mask -->
+    <pattern id="dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#FFFFFF" opacity="0.035"/>
+    </pattern>
+    <!-- Corner fade for dots -->
+    <radialGradient id="dotFade" cx="10%" cy="50%" r="55%">
+      <stop offset="0%"   stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="dotMaskLeft">
+      <rect width="380" height="220" fill="url(#dotFade)"/>
+    </mask>
+    <radialGradient id="dotFadeR" cx="90%" cy="50%" r="55%">
+      <stop offset="0%"   stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="dotMaskRight">
+      <rect x="520" y="0" width="380" height="220" fill="url(#dotFadeR)"/>
+    </mask>
   </defs>
 
-  <!-- Background -->
-  <rect width="900" height="190" rx="14" fill="url(#bgGrad)"/>
+  <!-- Base background -->
+  <rect width="900" height="220" rx="12" fill="url(#bg)"/>
 
-  <!-- Decorative dot grid -->
-  <g fill="#00D9FF" opacity="0.06">
-    <circle cx="30" cy="30" r="1.5"/> <circle cx="60" cy="30" r="1.5"/> <circle cx="90" cy="30" r="1.5"/>
-    <circle cx="30" cy="60" r="1.5"/> <circle cx="60" cy="60" r="1.5"/> <circle cx="90" cy="60" r="1.5"/>
-    <circle cx="30" cy="90" r="1.5"/> <circle cx="60" cy="90" r="1.5"/> <circle cx="90" cy="90" r="1.5"/>
-    <circle cx="810" cy="100" r="1.5"/> <circle cx="840" cy="100" r="1.5"/> <circle cx="870" cy="100" r="1.5"/>
-    <circle cx="810" cy="130" r="1.5"/> <circle cx="840" cy="130" r="1.5"/> <circle cx="870" cy="130" r="1.5"/>
-    <circle cx="810" cy="160" r="1.5"/> <circle cx="840" cy="160" r="1.5"/> <circle cx="870" cy="160" r="1.5"/>
-  </g>
+  <!-- Dot grid — left side -->
+  <rect width="380" height="220" rx="0" fill="url(#dots)" mask="url(#dotMaskLeft)"/>
+  <!-- Dot grid — right side -->
+  <rect x="520" width="380" height="220" rx="0" fill="url(#dots)" mask="url(#dotMaskRight)"/>
 
-  <!-- Glow orbs -->
-  <circle cx="90" cy="95" r="70" fill="#00D9FF" opacity="0.04"/>
-  <circle cx="810" cy="95" r="70" fill="#FF6B35" opacity="0.04"/>
-  <circle cx="450" cy="20" r="50" fill="#7C3AED" opacity="0.04"/>
+  <!-- Subtle top border line -->
+  <rect x="0" y="0" width="900" height="1" rx="1" fill="url(#accentLine)" opacity="0.5"/>
 
-  <!-- Wave decoration at bottom -->
-  <path d="M0,155 Q225,130 450,155 Q675,180 900,155 L900,190 L0,190 Z" fill="#00D9FF" opacity="0.04"/>
+  <!-- Left vertical accent bar -->
+  <rect x="52" y="30" width="2" height="160" rx="1" fill="url(#leftBar)"/>
 
-  <!-- Divider line with glow -->
-  <rect x="200" y="118" width="500" height="1" fill="url(#lineGrad)" opacity="0.4"/>
+  <!-- Right vertical accent bar -->
+  <rect x="846" y="30" width="2" height="160" rx="1" fill="url(#leftBar)"/>
+
+  <!-- Corner bracket — top left -->
+  <rect x="20" y="18" width="22" height="2" rx="1" fill="#00D4FF" opacity="0.5"/>
+  <rect x="20" y="18" width="2" height="22" rx="1" fill="#00D4FF" opacity="0.5"/>
+
+  <!-- Corner bracket — top right -->
+  <rect x="858" y="18" width="22" height="2" rx="1" fill="#818CF8" opacity="0.5"/>
+  <rect x="878" y="18" width="2" height="22" rx="1" fill="#818CF8" opacity="0.5"/>
+
+  <!-- Corner bracket — bottom left -->
+  <rect x="20" y="200" width="22" height="2" rx="1" fill="#00D4FF" opacity="0.5"/>
+  <rect x="20" y="180" width="2" height="22" rx="1" fill="#00D4FF" opacity="0.5"/>
+
+  <!-- Corner bracket — bottom right -->
+  <rect x="858" y="200" width="22" height="2" rx="1" fill="#818CF8" opacity="0.5"/>
+  <rect x="878" y="180" width="2" height="22" rx="1" fill="#818CF8" opacity="0.5"/>
+
+  <!-- Eyebrow label -->
+  <rect x="370" y="38" width="160" height="18" rx="4" fill="#00D4FF" opacity="0.08"/>
+  <text x="450" y="51"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="9.5" font-weight="600" fill="#00D4FF" text-anchor="middle"
+    letter-spacing="2.5" opacity="0.9">TURING LEAD ENGINEER · PAKISTAN</text>
 
   <!-- Main name -->
-  <text x="450" y="76" text-anchor="middle"
+  <text x="450" y="103"
     font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-    font-size="46" font-weight="700" fill="url(#nameGrad)" filter="url(#glow)">Abdul Samad</text>
+    font-size="48" font-weight="700" fill="url(#nameGrad)" text-anchor="middle"
+    letter-spacing="-0.5">Abdul Samad</text>
+
+  <!-- Accent divider line under name -->
+  <rect x="200" y="114" width="500" height="1.5" rx="1" fill="url(#accentLine)"/>
 
   <!-- Title -->
-  <text x="450" y="108" text-anchor="middle"
+  <text x="450" y="140"
     font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-    font-size="16" font-weight="500" fill="#C9D1D9" letter-spacing="0.5">
+    font-size="15" font-weight="400" fill="#94A3B8" text-anchor="middle" letter-spacing="0.3">
     Senior Full-Stack Developer  &amp;  AI Engineer
   </text>
 
-  <!-- Skills row -->
-  <text x="450" y="138" text-anchor="middle"
+  <!-- Tech pills row -->
+  <!-- Pill backgrounds -->
+  <rect x="100" y="154" width="56"  height="16" rx="8" fill="#00D4FF" opacity="0.08"/>
+  <rect x="163" y="154" width="52"  height="16" rx="8" fill="#00D4FF" opacity="0.08"/>
+  <rect x="222" y="154" width="80"  height="16" rx="8" fill="#00D4FF" opacity="0.08"/>
+  <rect x="309" y="154" width="54"  height="16" rx="8" fill="#00D4FF" opacity="0.08"/>
+  <rect x="370" y="154" width="62"  height="16" rx="8" fill="#00D4FF" opacity="0.08"/>
+  <rect x="439" y="154" width="54"  height="16" rx="8" fill="#818CF8" opacity="0.08"/>
+  <rect x="500" y="154" width="80"  height="16" rx="8" fill="#818CF8" opacity="0.08"/>
+  <rect x="587" y="154" width="60"  height="16" rx="8" fill="#818CF8" opacity="0.08"/>
+  <rect x="654" y="154" width="56"  height="16" rx="8" fill="#818CF8" opacity="0.08"/>
+  <rect x="717" y="154" width="84"  height="16" rx="8" fill="#818CF8" opacity="0.08"/>
+  <!-- Pill text -->
+  <text x="128" y="165" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#38BDF8" text-anchor="middle" letter-spacing="0.3">MERN</text>
+  <text x="189" y="165" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#38BDF8" text-anchor="middle" letter-spacing="0.3">Next.js</text>
+  <text x="262" y="165" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#38BDF8" text-anchor="middle" letter-spacing="0.3">TypeScript</text>
+  <text x="336" y="165" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#38BDF8" text-anchor="middle" letter-spacing="0.3">Python</text>
+  <text x="401" y="165" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#38BDF8" text-anchor="middle" letter-spacing="0.3">FastAPI</text>
+  <text x="466" y="165" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#A5B4FC" text-anchor="middle" letter-spacing="0.3">OpenAI</text>
+  <text x="540" y="165" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#A5B4FC" text-anchor="middle" letter-spacing="0.3">LangChain</text>
+  <text x="617" y="165" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#A5B4FC" text-anchor="middle" letter-spacing="0.3">AI Agents</text>
+  <text x="682" y="165" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#A5B4FC" text-anchor="middle" letter-spacing="0.3">Docker</text>
+  <text x="759" y="165" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#A5B4FC" text-anchor="middle" letter-spacing="0.3">AWS · GCP</text>
+
+  <!-- Bottom info row -->
+  <text x="450" y="197"
     font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-    font-size="12.5" fill="#00D9FF" opacity="0.85" letter-spacing="0.3">
-    MERN · Next.js 14/15 · TypeScript · Python · OpenAI · LangChain · RAG Pipelines · AI Agents
+    font-size="10" fill="#475569" text-anchor="middle" letter-spacing="1">
+    KARACHI, PAKISTAN  ·  AIAGENTIXZ.COM  ·  AVAILABLE REMOTE WORLDWIDE
   </text>
 
-  <!-- Location row -->
-  <text x="450" y="163" text-anchor="middle"
-    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-    font-size="11.5" fill="#6E7681" letter-spacing="0.2">
-    Karachi, Pakistan  ·  Turing Lead Engineer (Silicon Valley)  ·  Available Remote Worldwide
-  </text>
+  <!-- Subtle bottom border -->
+  <rect x="0" y="219" width="900" height="1" rx="1" fill="url(#accentLine)" opacity="0.3"/>
 </svg>

@@ -8,7 +8,7 @@
 <br/><br/>
 
 <!-- ANIMATED TYPING — self-hosted SVG, always loads, no external dependency -->
-<img src="https://raw.githubusercontent.com/samade747/samade747/main/assets/typing.svg" width="820" alt="Abdul Samad services: AI Chatbot Developer, Full-Stack Developer, MERN Stack, Next.js, OpenAI, AI Agents, Python, DevOps, Pakistan"/>
+<img src="https://raw.githubusercontent.com/samade747/samade747/main/assets/typing.svg" width="820" alt="Abdul Samad services: AI Agents Developer, AI Chatbot Developer, Full-Stack Developer, Mobile App Developer (React Native, Flutter, iOS & Android), MERN Stack, Next.js, OpenAI Agents SDK, Pakistan"/>
 
 <br/><br/>
 
@@ -62,11 +62,11 @@
 
 **Abdul Samad** is a **Senior Full-Stack Developer and AI Engineer** from **Karachi, Pakistan** with **5+ years of professional experience** building scalable web applications, production-grade AI systems, and enterprise automation platforms. Founder of <a href="https://www.aiagentixz.com/" target="_blank" rel="noopener noreferrer"><strong>AI Agentixz</strong></a> — a USA-based AI Chatbot, Web & App Development, and Automation Agency.
 
-Currently serving as a **Lead Full-Stack Engineer at** <a href="https://www.turing.com/" target="_blank" rel="noopener noreferrer"><strong>Turing</strong></a> (Silicon Valley) — connecting the world's top 1% of pre-vetted engineers with leading U.S. tech companies. **2+ years specialized** in LLM/AI applications: OpenAI GPT-4o, Gemini, Claude, LangChain, RAG pipelines, vector databases, and multi-agent systems.
+Currently serving as a **Lead Full-Stack Engineer at** <a href="https://www.turing.com/" target="_blank" rel="noopener noreferrer"><strong>Turing</strong></a> (Silicon Valley) — connecting the world's top 1% of pre-vetted engineers with leading U.S. tech companies. **2+ years specialized** in LLM/AI applications and **AI agents development**: OpenAI GPT-4o, Gemini, Claude, OpenAI Agents SDK, LangGraph, LangChain, RAG pipelines, vector databases, and autonomous multi-agent systems.
 
 ```
 🏆  Role        →  Lead Full-Stack Engineer @ Turing (Silicon Valley, USA)
-🤖  AI Stack    →  OpenAI · Gemini · Claude · LangChain · LlamaIndex · RAG · Pinecone
+🤖  AI Stack    →  OpenAI · Gemini · Claude · AI Agents SDK · LangGraph · CrewAI · RAG · Pinecone
 🌐  Web Stack   →  MERN · Next.js 14/15 · TypeScript · Python · FastAPI · Node.js
 ☁️  DevOps      →  AWS · GCP · Docker · Kubernetes · GitHub Actions · CI/CD
 📍  Location    →  Karachi, Pakistan — Remote-First · Available Worldwide
@@ -74,6 +74,32 @@ Currently serving as a **Lead Full-Stack Engineer at** <a href="https://www.turi
 🌍  Clients     →  USA · UK · Canada · Australia · UAE · Europe · Worldwide
 ⏰  Timezone    →  PKT (UTC+5) — Flexible hours for all global timezones
 ```
+
+<details>
+<summary><strong>📑 Quick Navigation</strong></summary>
+
+<br/>
+
+- [🏆 GitHub Trophies](#-github-trophies)
+- [🏢 AI Agentixz — Agency Overview](#-ai-agentixz--full-service-ai--software-development-agency)
+- **Services**
+  - [1. AI Chatbot Development](#-service-1--ai-chatbot-development)
+  - [2. AI Agents Development](#-service-2--ai-agents-development-autonomous--multi-agent-systems)
+  - [3. Full-Stack Web Development](#-service-3--full-stack-web-development)
+  - [4. Mobile App Development (React Native · Flutter · iOS & Android)](#-service-4--mobile-app-development-react-native--flutter--ios--android)
+  - [5. AI Automation & Workflow Automation](#️-service-5--ai-automation--workflow-automation)
+  - [6. DevOps & Cloud Engineering](#-service-6--devops--cloud-engineering)
+  - [7. LLM Integration & AI Engineering](#-service-7--llm-integration--ai-engineering)
+  - [8. E-Commerce Development](#-service-8--e-commerce-development)
+  - [9. Admin Dashboards & SaaS Backends](#-service-9--admin-dashboards--saas-backends)
+- [🛠️ Full Technical Stack](#️-full-technical-stack)
+- [🚀 Featured Projects](#-featured-projects)
+- [💡 Why Work With Me](#-why-work-with-abdul-samad)
+- [🏆 Certifications & Background](#-certifications--professional-background)
+- [📊 GitHub Stats & Activity](#-github-stats--activity)
+- [🌐 Find Me & Hire Me](#-find-me--hire-me)
+
+</details>
 
 ---
 
@@ -115,7 +141,27 @@ Custom intelligent chatbots built on **OpenAI GPT-4o, Anthropic Claude, Google G
 
 ---
 
-### 🌐 Service 2 — Full-Stack Web Development
+### 🤖 Service 2 — AI Agents Development (Autonomous & Multi-Agent Systems)
+
+Design and build autonomous AI agents and multi-agent systems that plan, reason, use tools, and complete multi-step tasks with minimal human input — from single-purpose task agents to full agentic pipelines coordinating multiple specialized agents.
+
+**What you get:**
+- Autonomous task agents: research agents, coding agents, data-analysis agents, QA/testing agents
+- Multi-agent orchestration: supervisor/worker patterns, agent-to-agent handoff, parallel agent execution
+- Tool use & function calling: web search, code execution, API calls, database queries, file operations
+- Agentic frameworks: OpenAI Agents SDK · LangGraph · CrewAI · AutoGen · Microsoft Semantic Kernel
+- Planning & reasoning strategies: ReAct, Plan-and-Execute, Reflection, Chain-of-Thought
+- Agent memory: short-term conversational context + long-term vector/episodic memory
+- Human-in-the-loop checkpoints, approval gates, and guardrails for safe autonomy
+- Agent observability & tracing: LangSmith · Langfuse · step-by-step execution logs
+- Workflow automation agents wired into CRMs, Slack, email, and internal business tools
+- Production deployment: FastAPI backends, async job queues, and scalable agent runtimes
+
+`OpenAI Agents SDK` · `LangGraph` · `CrewAI` · `AutoGen` · `LangChain` · `Python` · `FastAPI` · `Pinecone` · `Redis`
+
+---
+
+### 🌐 Service 3 — Full-Stack Web Development
 
 End-to-end web application development — from UI/UX design to cloud deployment. Specializing in **Next.js 14/15, React.js, Node.js, Express.js, MongoDB, PostgreSQL, and TypeScript**. Performance-first, SEO-optimized, and built to scale.
 
@@ -133,26 +179,28 @@ End-to-end web application development — from UI/UX design to cloud deployment
 
 ---
 
-### 📱 Service 3 — Mobile App Development
+### 📱 Service 4 — Mobile App Development (React Native · Flutter · iOS & Android)
 
-Cross-platform mobile applications and Progressive Web Apps (PWA) with native-like performance. Deploy to iOS App Store and Google Play simultaneously from a single codebase.
+Cross-platform and native mobile applications with native-like performance, built in **React Native** or **Flutter** and shipped natively for **iOS and Android**. One codebase, two app stores — or fully native when the project calls for it.
 
 **What you get:**
-- React Native development for iOS and Android
-- Expo managed and bare workflow
+- React Native development for iOS and Android (Expo managed and bare workflow)
+- Flutter development with Dart — single codebase for iOS, Android, and web
+- Native iOS development (Swift, SwiftUI) and native Android development (Kotlin, Jetpack Compose) for performance-critical or platform-specific apps
 - Next.js Progressive Web Apps with offline-first capability and service workers
 - Push notifications: Firebase FCM · OneSignal · APNs · Expo Notifications
 - Native device integration: Camera · GPS/Maps · Biometrics · Accelerometer · Bluetooth
-- App Store and Google Play end-to-end submission
+- State management: Redux Toolkit · Riverpod · Bloc · Zustand
+- App Store and Google Play end-to-end submission and review handling
 - Deep linking, universal links, and custom URL schemes
 - In-app purchases and subscription billing (RevenueCat, Stripe)
 - Backend API integration with real-time data sync
 
-`React Native` · `Expo` · `TypeScript` · `Next.js PWA` · `Firebase` · `Redux Toolkit`
+`React Native` · `Flutter` · `Dart` · `Swift` · `Kotlin` · `Expo` · `TypeScript` · `Firebase` · `Redux Toolkit`
 
 ---
 
-### ⚙️ Service 4 — AI Automation & Workflow Automation
+### ⚙️ Service 5 — AI Automation & Workflow Automation
 
 Replace expensive, error-prone manual processes with **intelligent AI-powered automation pipelines** that work 24/7. We design, build, and deploy end-to-end automation for businesses of any size, saving 100s of hours per month.
 
@@ -172,7 +220,7 @@ Replace expensive, error-prone manual processes with **intelligent AI-powered au
 
 ---
 
-### 🚀 Service 5 — DevOps & Cloud Engineering
+### 🚀 Service 6 — DevOps & Cloud Engineering
 
 Full **CI/CD pipeline setup, Docker containerization, Kubernetes orchestration, cloud deployment, and infrastructure management**. We make your application secure, auto-scaling, and production-resilient.
 
@@ -192,7 +240,7 @@ Full **CI/CD pipeline setup, Docker containerization, Kubernetes orchestration, 
 
 ---
 
-### 🧠 Service 6 — LLM Integration & AI Engineering
+### 🧠 Service 7 — LLM Integration & AI Engineering
 
 Integrate powerful **Large Language Models into your existing product** or architect fully AI-native applications from scratch. Production-grade LLM systems that are reliable, fast, cost-efficient, and observable.
 
@@ -212,7 +260,7 @@ Integrate powerful **Large Language Models into your existing product** or archi
 
 ---
 
-### 🛒 Service 7 — E-Commerce Development
+### 🛒 Service 8 — E-Commerce Development
 
 High-converting, performance-optimized e-commerce platforms on **Shopify, Next.js Commerce, WooCommerce**, or fully custom MERN builds. Every store is engineered for conversion, SEO, and scale.
 
@@ -232,7 +280,7 @@ High-converting, performance-optimized e-commerce platforms on **Shopify, Next.j
 
 ---
 
-### 📊 Service 8 — Admin Dashboards & SaaS Backends
+### 📊 Service 9 — Admin Dashboards & SaaS Backends
 
 Custom admin panels, analytics dashboards, multi-tenant SaaS backends, and internal business tooling — built for performance, security, and scale.
 
@@ -297,6 +345,19 @@ Custom admin panels, analytics dashboards, multi-tenant SaaS backends, and inter
 <img src="https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat-square&logoColor=white" alt="Anthropic Claude"/>
 <img src="https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=flat-square&logoColor=white" alt="RAG Retrieval-Augmented Generation Pipelines"/>
 <img src="https://img.shields.io/badge/AI_Agents-00D9FF?style=flat-square&logoColor=white" alt="AI Agents Multi-Agent Systems"/>
+<img src="https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Agents SDK"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" alt="LangGraph Agent Orchestration"/>
+<img src="https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square&logoColor=white" alt="CrewAI Multi-Agent Framework"/>
+<img src="https://img.shields.io/badge/AutoGen-00A2FF?style=flat-square&logoColor=white" alt="Microsoft AutoGen Multi-Agent Framework"/>
+
+### 📱 Mobile App Development
+<a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/></a>
+<a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/></a>
+<a href="https://dart.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/></a>
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Swift_%7C_iOS-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift iOS Development"/></a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Kotlin_%7C_Android-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Android Development"/></a>
+<a href="https://expo.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/></a>
+<img src="https://img.shields.io/badge/Progressive_Web_Apps-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="Progressive Web Apps"/>
 
 ### ☁️ Cloud · DevOps · Infrastructure
 <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="Amazon Web Services AWS"/></a>
@@ -311,7 +372,7 @@ Custom admin panels, analytics dashboards, multi-tenant SaaS backends, and inter
 
 <div align="center">
 <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer" title="Abdul Samad Full Tech Stack">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,python,fastapi,mongodb,postgres,redis,aws,docker,kubernetes,git,tailwind,figma,vscode,linux,github,shopify&perline=10" alt="Abdul Samad complete tech stack skills: Next.js React TypeScript JavaScript Node.js Python FastAPI MongoDB PostgreSQL Redis AWS Docker Kubernetes Git Tailwind CSS Figma VS Code Linux GitHub Shopify"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,python,fastapi,flutter,dart,swift,kotlin,mongodb,postgres,redis,aws,docker,kubernetes,git,tailwind,figma,vscode,linux,github,shopify&perline=10" alt="Abdul Samad complete tech stack skills: Next.js React TypeScript JavaScript Node.js Python FastAPI Flutter Dart Swift Kotlin MongoDB PostgreSQL Redis AWS Docker Kubernetes Git Tailwind CSS Figma VS Code Linux GitHub Shopify"/>
 </a>
 </div>
 
@@ -389,7 +450,7 @@ Custom admin panels, analytics dashboards, multi-tenant SaaS backends, and inter
 | 🏆 | **Turing Top 1%** | Passed Silicon Valley's most rigorous engineering vetting. Trusted by U.S. clients |
 | 🚀 | **Ships to Production** | Every project in my portfolio is live, deployed, serving real users. No demo-only |
 | 🏢 | **Agency Backing** | AI Agentixz = team-grade results: AI + Web + Mobile + Automation + DevOps in one |
-| 📦 | **8 Core Services** | One partner for all your digital needs — chatbots, web, apps, automation, cloud |
+| 📦 | **9 Core Services** | One partner for all your digital needs — chatbots, AI agents, web, apps, automation, cloud |
 
 ---
 
@@ -444,7 +505,7 @@ Custom admin panels, analytics dashboards, multi-tenant SaaS backends, and inter
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/webdeveloper-mern-stack-specialist-samaddeveloper-aiagentsdev/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/samaddeveloper-aiagents-developer/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Abdul_Samad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Abdul Samad MERN AI Developer"/>
 </a>
 <a href="https://www.aiagentixz.com/" target="_blank" rel="noopener noreferrer">
@@ -477,8 +538,24 @@ Custom admin panels, analytics dashboards, multi-tenant SaaS backends, and inter
 
 <div align="center">
 
-**Abdul Samad** · Senior Full-Stack Developer · AI Engineer · MERN Stack Developer · Next.js 14 15 Expert · React.js Developer · Node.js Backend Engineer · TypeScript Specialist · Python Developer · AI Chatbot Developer · AI Agents Engineer · LLM Developer · OpenAI GPT-4o Integration · Google Gemini Developer · Anthropic Claude · LangChain Expert · LlamaIndex · RAG Pipelines · Agentic AI Systems · AI Automation Engineer · Workflow Automation · n8n Developer · Web Application Developer · Mobile App Developer · React Native Developer · Progressive Web App Developer · E-Commerce Developer · Shopify Developer · Sanity CMS · SaaS Platform Builder · Admin Dashboard Developer · DevOps Engineer · Cloud Architect · AWS Certified Developer · Docker · Kubernetes · CI/CD Pipelines · GitHub Actions · Terraform · Freelance Developer · Remote Developer · Contract Software Engineer · Turing Engineer Top 1 Percent · Karachi Pakistan Developer · Pakistani AI Developer · PIAIC Graduate · GIAIC Graduate · SMIT Certified · Available for USA UK Canada Australia UAE Europe Remote Projects · Full-Stack Web Development Services · AI Development Services · Automation Services · Cloud Services
+### Abdul Samad
+**Senior Full-Stack Developer · AI Engineer · AI Agents & Agentic Systems Developer**
+
+Karachi, Pakistan 🇵🇰 — Remote-First — Available for USA · UK · Canada · Australia · UAE · Europe
 
 ⭐ **Found my work useful? Star a repo — it helps others find it too!** 🚀
+
+<br/>
+
+<sub>
+MERN Stack · Next.js 14/15 · React.js · TypeScript · Node.js · Python · FastAPI &nbsp;|&nbsp;
+OpenAI GPT-4o · Google Gemini · Anthropic Claude · LangChain · LlamaIndex · RAG Pipelines &nbsp;|&nbsp;
+OpenAI Agents SDK · LangGraph · CrewAI · AutoGen · Multi-Agent Systems &nbsp;|&nbsp;
+n8n · Zapier · Make · Workflow Automation &nbsp;|&nbsp;
+React Native · Flutter · Swift (iOS) · Kotlin (Android) · Expo · Progressive Web Apps &nbsp;|&nbsp;
+Shopify · E-Commerce · SaaS Dashboards &nbsp;|&nbsp;
+AWS · GCP · Docker · Kubernetes · CI/CD &nbsp;|&nbsp;
+Turing Top 1% Engineer · PIAIC / GIAIC / SMIT Certified
+</sub>
 
 </div>

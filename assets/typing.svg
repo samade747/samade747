@@ -60,7 +60,7 @@
 
   <!-- LINE 1 -->
   <text class="tline l1" x="400" y="29">
-    <tspan class="prefix">▸ </tspan>AI Chatbot &amp; AI Agents Developer | OpenAI | Gemini | LangChain
+    <tspan class="prefix">▸ </tspan>AI Agents Developer | OpenAI Agents SDK | LangGraph | CrewAI
   </text>
 
   <!-- LINE 2 -->
@@ -70,7 +70,7 @@
 
   <!-- LINE 3 -->
   <text class="tline l3" x="400" y="29">
-    <tspan class="prefix">▸ </tspan>Mobile &amp; App Developer | React Native | PWA | Expo
+    <tspan class="prefix">▸ </tspan>Mobile App Developer | React Native | Flutter | iOS &amp; Android
   </text>
 
   <!-- LINE 4 -->
@@ -90,7 +90,7 @@
 
   <!-- LINE 7 -->
   <text class="tline l7" x="400" y="29">
-    <tspan class="prefix">▸ </tspan>LLM &amp; RAG Engineer | Pinecone | LangChain | LlamaIndex
+    <tspan class="prefix">▸ </tspan>AI Chatbot &amp; LLM/RAG Engineer | OpenAI | Gemini | Pinecone
   </text>
 
   <!-- LINE 8 -->
